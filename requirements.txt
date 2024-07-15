@@ -26,3 +26,4 @@ urllib3==1.26.4
 virtualenv==20.4.3
 whitenoise==5.2.0
 wrapt==1.12.1
+setuptools>=70.0.0 # not directly required, pinned by Snyk to avoid a vulnerability
